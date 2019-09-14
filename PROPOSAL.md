@@ -16,13 +16,11 @@ The primary Goal of our project is to train our model to predict the results of 
 
 The Australian Bureau of Statistics contains vast amounts of statistical data that can be manipulated to produce information based on relevant indicators such as demographic, economic indicators (such as average weekly income) and other important factors relevant to determining someone's vote. Our chosen data set contains the following indicators:
 
-```
-⋅⋅1.Weekly Income
-⋅⋅2.Ancestry 1st Response
-⋅⋅3.Education Status
-⋅⋅4.Number of Children 
-⋅⋅5.Average Age of Electorate
-```
+* Weekly Income
+* Ancestry 1st Response
+* Education Status
+* Number of Children 
+* Average Age of Electorate
 
 Our Data from the Australian Bureau of Statistics is 5 .csv files for all of these predictors, which can then be manipulated to determine averages. This will then leave us with a dataframe of 49 rows (each electorate in New South Wales) with 5 columns, containing socioeconomic information for each electorate.
 
@@ -30,7 +28,14 @@ The Australian Electoral Commission contains all historical data for Australian 
 
 #### Data Manipulation
 
-We must calculate approximate averages for each electorate that allow us to plug in data to determine a response. In this case we must: 1. use the responses to weekly income to determine an equally approximate weekly income for each district. 2. use the responses to ancestry to determine what percent of the population belongs to the major reported ethnic response of the state. 3. determine average age of each districts response. 4. use responses to education level to determine what percent of the population is high school or even university educated. 5. determine average number of children of respondents in the area.
+We must calculate approximate averages for each electorate that allow us to plug in data to determine a response. In this case we must: 
+
+1. use the responses to weekly income to determine an equally approximate weekly income for each district. 
+
+2. use the responses to ancestry to determine what percent of the population belongs to the major reported ethnic response of the state. 
+3. determine average age of each districts response.
+4. use responses to education level to determine what percent of the population is high school or even university educated. 
+5. determine average number of children of respondents in the area.
 
 Techniques we plan to employ in this project We expect that our results will come from machine learning techniques such as K Nearest neighbour and logistic regression.
 
