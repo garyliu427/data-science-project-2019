@@ -22,7 +22,7 @@ The Australian Bureau of Statistics contains vast amounts of statistical data th
 * Number of Children 
 * Average Age of Electorate
 
-Our Data from the Australian Bureau of Statistics is 5 .csv files for all of these predictors, which can then be manipulated to determine averages. This will then leave us with a dataframe of 49 rows (each electorate in New South Wales) with 5 columns, containing socioeconomic information for each electorate.
+Our Data from the Australian Bureau of Statistics is 5 csv files for all of these predictors, which can then be manipulated to determine averages. This will then leave us with a dataframe of 49 rows (each electorate in New South Wales) with 5 columns, containing socioeconomic information for each electorate.
 
 The Australian Electoral Commission contains all historical data for Australian elections. We will be using the Historical two candidate preferred votes by party by division file to train our model. This data contains 94 rows and 9 columns containing information of two candidate preferred votes.
 
@@ -30,12 +30,12 @@ The Australian Electoral Commission contains all historical data for Australian 
 
 We must calculate approximate averages for each electorate that allow us to plug in data to determine a response. In this case we must: 
 
-1. use the responses to weekly income to determine an equally approximate weekly income for each district. 
+1. Use the responses to weekly income to determine an equally approximate weekly income for each district. 
 
-2. use the responses to ancestry to determine what percent of the population belongs to the major reported ethnic response of the state. 
-3. determine average age of each districts response.
-4. use responses to education level to determine what percent of the population is high school or even university educated. 
-5. determine average number of children of respondents in the area.
+2. Use the responses to ancestry to determine what percent of the population belongs to the major reported ethnic response of the state. 
+3. Determine average age of each districts response.
+4. Use responses to education level to determine what percent of the population is high school or even university educated. 
+5. Determine average number of children of respondents in the area.
 
 Techniques we plan to employ in this project We expect that our results will come from machine learning techniques such as K Nearest neighbour and logistic regression.
 
@@ -45,6 +45,6 @@ Week 8: Cleaning and preparing the appropriate data sets for use
 
 Week 10: Prepare our model and apply it to our data
 
-Week 12: use confusion matrix to determine the fit of our data
+Week 12: Use confusion matrix to determine the fit of our data
 
 Week 13: Prepare our report presentation
