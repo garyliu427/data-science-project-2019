@@ -29,9 +29,7 @@ The Australian Electoral Commission contains all historical data for Australian 
 ### Data Manipulation
 
 We must calculate approximate averages for each electorate that allow us to plug in data to determine a response. In this case we must: 
-
 1. Use the responses to weekly income to determine an equally approximate weekly income for each district. 
-
 2. Use the responses to ancestry to determine what percent of the population belongs to the major reported ethnic response of the state. 
 3. Determine average age of each districts response.
 4. Use responses to education level to determine what percent of the population is high school or even university educated. 
