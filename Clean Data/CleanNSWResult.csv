@@ -1,94 +1,94 @@
-,Party won,Name
-0,LNP,Albury
-1,ALP,Auburn
-2,Green,Ballina
-3,Green,Balmain
-4,ALP,Bankstown
-5,Shooters Fishers and Farmers,Barwon
-6,LNP,Bathurst
-7,LNP,Baulkham Hills
-8,LNP,Bega
-9,ALP,Blacktown
-10,ALP,Blue Mountains
-11,ALP,Cabramatta
-12,LNP,Camden
-13,ALP,Campbelltown
-14,ALP,Canterbury
-15,LNP,Castle Hill
-16,ALP,Cessnock
-17,ALP,Charlestown
-18,LNP,Clarence
-19,LNP,Coffs Harbour
-20,ALP,Coogee
-21,LNP,Cootamundra
-22,LNP,Cronulla
-23,LNP,Davidson
-24,LNP,Drummoyne
-25,LNP,Dubbo
-26,LNP,East Hills
-27,LNP,Epping
-28,ALP,Fairfield
-29,ALP,Gosford
-30,LNP,Goulburn
-31,ALP,Granville
-32,LNP,Hawkesbury
-33,LNP,Heathcote
-34,ALP,Heffron
-35,LNP,Holsworthy
-36,LNP,Hornsby
-37,ALP,Keira
-38,LNP,Kiama
-39,ALP,Kogarah
-40,LNP,Ku-ring-gai
-41,Independent,Lake Macquarie
-42,ALP,Lakemba
-43,LNP,Lane Cove
-44,ALP,Lismore
-45,ALP,Liverpool
-46,ALP,Londonderry
-47,ALP,Macquarie Fields
-48,ALP,Maitland
-49,LNP,Manly
-50,ALP,Maroubra
-51,LNP,Miranda
-52,LNP,Monaro
-53,ALP,Mount Druitt
-54,LNP,Mulgoa
-55,Shooters Fishers and Farmers,Murray
-56,LNP,Myall Lakes
-57,ALP,Newcastle
-58,Greens,Newtown
-59,LNP,North Shore
-60,LNP,Northern Tablelands
-61,LNP,Oatley
-62,LNP,Orange
-63,Shooters Fishers and Farmers,Oxley
-64,LNP,Parramatta
-65,LNP,Penrith
-66,LNP,Pittwater
-67,LNP,Port Macquarie
-68,ALP,Port Stephens
-69,ALP,Prospect
-70,LNP,Riverstone
-71,ALP,Rockdale
-72,LNP,Ryde
-73,LNP,Seven Hills
-74,ALP,Shellharbour
-75,LNP,South Coast
-76,ALP,Strathfield
-77,ALP,Summer Hill
-78,ALP,Swansea
-79,Independent,Sydney
-80,LNP,Tamworth
-81,LNP,Terrigal
-82,ALP,The Entrance
-83,LNP,Tweed
-84,LNP,Upper Hunter
-85,LNP,Vaucluse
-86,Independent,Wagga Wagga
-87,LNP,Wakehurst
-88,ALP,Wallsend
-89,LNP,Willoughby
-90,LNP,Wollondilly
-91,ALP,Wollongong
-92,ALP,Wyong
+,Name,Party won
+0,Albury,LNP
+1,Auburn,ALP
+2,Ballina,Green
+3,Balmain,Green
+4,Bankstown,ALP
+5,Barwon,Shooters Fishers and Farmers
+6,Bathurst,LNP
+7,Baulkham Hills,LNP
+8,Bega,LNP
+9,Blacktown,ALP
+10,Blue Mountains,ALP
+11,Cabramatta,ALP
+12,Camden,LNP
+13,Campbelltown,ALP
+14,Canterbury,ALP
+15,Castle Hill,LNP
+16,Cessnock,ALP
+17,Charlestown,ALP
+18,Clarence,LNP
+19,Coffs Harbour,LNP
+20,Coogee,ALP
+21,Cootamundra,LNP
+22,Cronulla,LNP
+23,Davidson,LNP
+24,Drummoyne,LNP
+25,Dubbo,LNP
+26,East Hills,LNP
+27,Epping,LNP
+28,Fairfield,ALP
+29,Gosford,ALP
+30,Goulburn,LNP
+31,Granville,ALP
+32,Hawkesbury,LNP
+33,Heathcote,LNP
+34,Heffron,ALP
+35,Holsworthy,LNP
+36,Hornsby,LNP
+37,Keira,ALP
+38,Kiama,LNP
+39,Kogarah,ALP
+40,Ku-ring-gai,LNP
+41,Lake Macquarie,Independent
+42,Lakemba,ALP
+43,Lane Cove,LNP
+44,Lismore,ALP
+45,Liverpool,ALP
+46,Londonderry,ALP
+47,Macquarie Fields,ALP
+48,Maitland,ALP
+49,Manly,LNP
+50,Maroubra,ALP
+51,Miranda,LNP
+52,Monaro,LNP
+53,Mount Druitt,ALP
+54,Mulgoa,LNP
+55,Murray,Shooters Fishers and Farmers
+56,Myall Lakes,LNP
+57,Newcastle,ALP
+58,Newtown,Greens
+59,North Shore,LNP
+60,Northern Tablelands,LNP
+61,Oatley,LNP
+62,Orange,LNP
+63,Oxley,Shooters Fishers and Farmers
+64,Parramatta,LNP
+65,Penrith,LNP
+66,Pittwater,LNP
+67,Port Macquarie,LNP
+68,Port Stephens,ALP
+69,Prospect,ALP
+70,Riverstone,LNP
+71,Rockdale,ALP
+72,Ryde,LNP
+73,Seven Hills,LNP
+74,Shellharbour,ALP
+75,South Coast,LNP
+76,Strathfield,ALP
+77,Summer Hill,ALP
+78,Swansea,ALP
+79,Sydney,Independent
+80,Tamworth,LNP
+81,Terrigal,LNP
+82,The Entrance,ALP
+83,Tweed,LNP
+84,Upper Hunter,LNP
+85,Vaucluse,LNP
+86,Wagga Wagga,Independent
+87,Wakehurst,LNP
+88,Wallsend,ALP
+89,Willoughby,LNP
+90,Wollondilly,LNP
+91,Wollongong,ALP
+92,Wyong,ALP
