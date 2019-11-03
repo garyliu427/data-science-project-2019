@@ -26,7 +26,10 @@ Education - % of electorate population that has completed year 12 of High School
 
 # Our files
 
-Of the notebooks, all workbooks will be summarised within Final_report.ipynb, and all execution will be performable within
+There are two primary notebooks - Initialization.ipynb and Final_Report.ipynb.
+-Initialization.ipynb will be a summarised version of Group Assignment Working notebook, containing the cleaning and creation of our csv files
+-Final_Report.ipynb will contain all of our analysis regarding the cleaned results from initialization
+Github commits regarding these 2 reports should be taken with a grain of salt, as they are summaries of our 3 working notebooks
 
 Group Assignment Working notebook.ipynb , Log.ipynb, and Seaborn Analysis.ipynb are all working notebooks seperated so that work could be performed at the same time via github
 
