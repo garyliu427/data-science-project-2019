@@ -30,7 +30,7 @@ Income - Average weekly income of electorate
 
 Education - % of electorate population that has completed year 12 of High School
 
-## Our files
+### Our files
 
 There are two primary notebooks - *Initialization.ipynb* and *Final_Report.ipynb*.
 - Initialization.ipynb will be a summarised version of Group Assignment Working notebook, containing the cleaning and creation of our csv files.
