@@ -9,12 +9,12 @@ Our goal is to be able to as best we can predict an electorates vote and discuss
 - Australian Electoral Commission, www.aec.gov.au, containing the results for the 2019 Federal election
 - NSW Electorale commission, vtr.elections.nsw.gov.au/la/state/elected, containing results for the 2019 NSW election
 
-# Group: Practical 06 Group E
+## Group: Practical 06 Group E
 Group Members: Michael Payne (45133956), Vincent Xu (44937113) Xiaotian Liu (44410573), Tianhao Tang(44030754)
 
 Project Title: Data analysis of 2019 Elections
 
-# Summary 
+## Summary 
 
 The australian federal election was considered a large upset by media sources across the country. The aim of this project is to take possibly relevant socio-economic factors within state electorates and see whether we can accurately predict the two party outcome of a particular eletorate. 
 
@@ -30,7 +30,7 @@ Income - Average weekly income of electorate
 
 Education - % of electorate population that has completed year 12 of High School
 
-# Our files
+## Our files
 
 There are two primary notebooks - *Initialization.ipynb* and *Final_Report.ipynb*.
 - Initialization.ipynb will be a summarised version of Group Assignment Working notebook, containing the cleaning and creation of our csv files.
